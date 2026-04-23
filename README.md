@@ -1,4 +1,4 @@
-# Download Manager Pro v2.0 — JavaFX
+# Multi-Threaded Download Manager 
 
 A professional multi-threaded download manager with chunk-based parallel downloading simulation.
 
